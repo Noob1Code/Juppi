@@ -356,7 +356,7 @@ Fluxo:
 │                               │
 │ Controller                    │
 │ Service                       │
-│ Repository                   │
+│ Repository                    │
 │ Security                      │
 │ DTO                           │
 └───────────────┬───────────────┘
@@ -735,7 +735,7 @@ Modelo conceitual:
                                  │
                                  ▼
 ┌───────────────┐        ┌───────────────┐
-│ PROPRIETÁRIO  │───────▶│ ESTABELECIMENTO│
+│ PROPRIETÁRIO  │──────▶│ ESTABELECIMENTO│
 └───────────────┘   1:N  └───────┬───────┘
                                  │
                                 1:N
