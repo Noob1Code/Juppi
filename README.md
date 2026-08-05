@@ -57,7 +57,7 @@ Ao mesmo tempo, a plataforma será construída para atender também:
        ├── 1 quadra              ├── 1 quadra
        ├── 2 quadras             ├── 5 quadras
        ├── 3 quadras             ├── 10 quadras
-       └── poucos espaços       └── grandes complexos
+       └── poucos espaços        └── grandes complexos
 ```
 
 **Foco inicial ≠ exclusividade.**
